@@ -1,0 +1,12 @@
+.header {
+    background-color: lavender; 
+    padding: 10px;               
+    border: 1px solid #c9de5f; 
+    font-weight: bold;           
+    font-size: 1.2em;            
+}
+
+.red-text {
+    color: red;
+    font-weight: bold;
+}
